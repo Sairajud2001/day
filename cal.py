@@ -7,4 +7,5 @@ def mul(a,b):
 def div(a,b):
     return a//b
 print("enter  the number")
+print("enter anothe numbr")
 print(mul(45845,3632))
